@@ -1,2 +1,2 @@
 # fwebsitus
-assignment thingy not important
+Simple website 
